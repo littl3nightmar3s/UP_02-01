@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|c:\\users\\user\\desktop\\\u0443\u043F\\\u043F\u0440\u043E\u0435\u043A\u0442\\tech\\yprav\\editmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|solutionrelative:tech\\yprav\\editmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\tech\\yprav\\editmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|solutionrelative:tech\\yprav\\editmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\tech\\yprav\\operatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|solutionrelative:tech\\yprav\\operatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\tech\\yprav\\operatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|solutionrelative:tech\\yprav\\operatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\tech\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|solutionrelative:tech\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\tech\\captchaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|solutionrelative:tech\\captchaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\tech\\captchaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|solutionrelative:tech\\captchaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\tech\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|solutionrelative:tech\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\tech\\yprav\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|solutionrelative:tech\\yprav\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E4675-C368-4EAA-BFBD-CECAF720798A}|Library\\Library.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\library\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94E4675-C368-4EAA-BFBD-CECAF720798A}|Library\\Library.csproj|solutionrelative:library\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\tech\\yprav\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|solutionrelative:tech\\yprav\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\tech\\yprav\\editforman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|solutionrelative:tech\\yprav\\editforman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\tech\\yprav\\editforman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|solutionrelative:tech\\yprav\\editforman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\tech\\yprav\\editdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|solutionrelative:tech\\yprav\\editdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\tech\\yprav\\editdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|solutionrelative:tech\\yprav\\editdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\tech\\master\\masterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|solutionrelative:tech\\master\\masterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\tech\\master\\masterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|solutionrelative:tech\\master\\masterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\tech\\master\\editformaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|solutionrelative:tech\\master\\editformaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\tech\\master\\editformaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|solutionrelative:tech\\master\\editformaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\tech\\client\\editappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|solutionrelative:tech\\client\\editappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\tech\\client\\editappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|solutionrelative:tech\\client\\editappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\tech\\client\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|solutionrelative:tech\\client\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\tech\\client\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|solutionrelative:tech\\client\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\tech\\client\\appaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|solutionrelative:tech\\client\\appaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\tech\\client\\appaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{182C8D38-0F8E-48AA-93C8-29E7F42667BB}|Tech\\Tech.csproj|solutionrelative:tech\\client\\appaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEB36A2-6477-41B8-8B54-417DCC6A4959}|UnitTests\\UnitTests.csproj|C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEB36A2-6477-41B8-8B54-417DCC6A4959}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 266,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Tech\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\Tech\\Tech\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Tech\\Tech\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:56:19.848Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Tech\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\LoginForm.cs",
+              "RelativeToolTip": "Tech\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:56:22.986Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTests\\UnitTest1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:20:34.789Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BD.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Library\\BD.cs",
+              "RelativeDocumentMoniker": "Library\\BD.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Library\\BD.cs",
+              "RelativeToolTip": "Library\\BD.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAwwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:04:08.76Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditMaster.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\yprav\\EditMaster.cs",
+              "RelativeDocumentMoniker": "Tech\\yprav\\EditMaster.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\yprav\\EditMaster.cs",
+              "RelativeToolTip": "Tech\\yprav\\EditMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:26:17.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OperatorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\yprav\\OperatorForm.cs",
+              "RelativeDocumentMoniker": "Tech\\yprav\\OperatorForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\Tech\\Tech\\yprav\\OperatorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Tech\\Tech\\yprav\\OperatorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:07:40.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OperatorForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\yprav\\OperatorForm.cs",
+              "RelativeDocumentMoniker": "Tech\\yprav\\OperatorForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\yprav\\OperatorForm.cs",
+              "RelativeToolTip": "Tech\\yprav\\OperatorForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:05:57.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditMaster.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\yprav\\EditMaster.cs",
+              "RelativeDocumentMoniker": "Tech\\yprav\\EditMaster.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\Tech\\Tech\\yprav\\EditMaster.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Tech\\Tech\\yprav\\EditMaster.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:26:16.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CaptchaForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\CaptchaForm.cs",
+              "RelativeDocumentMoniker": "Tech\\CaptchaForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\CaptchaForm.cs",
+              "RelativeToolTip": "Tech\\CaptchaForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:11:16.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CaptchaForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\CaptchaForm.cs",
+              "RelativeDocumentMoniker": "Tech\\CaptchaForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\Tech\\Tech\\CaptchaForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Tech\\Tech\\CaptchaForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:11:14.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManagerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\yprav\\ManagerForm.cs",
+              "RelativeDocumentMoniker": "Tech\\yprav\\ManagerForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\Tech\\Tech\\yprav\\ManagerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Tech\\Tech\\yprav\\ManagerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:08:04.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManagerForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\yprav\\ManagerForm.cs",
+              "RelativeDocumentMoniker": "Tech\\yprav\\ManagerForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\yprav\\ManagerForm.cs",
+              "RelativeToolTip": "Tech\\yprav\\ManagerForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:08:23.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditForMan.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\yprav\\EditForMan.cs",
+              "RelativeDocumentMoniker": "Tech\\yprav\\EditForMan.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\yprav\\EditForMan.cs",
+              "RelativeToolTip": "Tech\\yprav\\EditForMan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T14:23:59.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditDate.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\yprav\\EditDate.cs",
+              "RelativeDocumentMoniker": "Tech\\yprav\\EditDate.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\Tech\\Tech\\yprav\\EditDate.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Tech\\Tech\\yprav\\EditDate.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:58:09.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditDate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\yprav\\EditDate.cs",
+              "RelativeDocumentMoniker": "Tech\\yprav\\EditDate.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\yprav\\EditDate.cs",
+              "RelativeToolTip": "Tech\\yprav\\EditDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T14:01:08.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MasterForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\master\\MasterForm.cs",
+              "RelativeDocumentMoniker": "Tech\\master\\MasterForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\master\\MasterForm.cs",
+              "RelativeToolTip": "Tech\\master\\MasterForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:25:33.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditForMan.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\yprav\\EditForMan.cs",
+              "RelativeDocumentMoniker": "Tech\\yprav\\EditForMan.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\Tech\\Tech\\yprav\\EditForMan.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Tech\\Tech\\yprav\\EditForMan.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:26:07.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MasterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\master\\MasterForm.cs",
+              "RelativeDocumentMoniker": "Tech\\master\\MasterForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\Tech\\Tech\\master\\MasterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Tech\\Tech\\master\\MasterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:25:31.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditForMaster.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\master\\EditForMaster.cs",
+              "RelativeDocumentMoniker": "Tech\\master\\EditForMaster.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\master\\EditForMaster.cs",
+              "RelativeToolTip": "Tech\\master\\EditForMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:37:13.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditForMaster.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\master\\EditForMaster.cs",
+              "RelativeDocumentMoniker": "Tech\\master\\EditForMaster.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\Tech\\Tech\\master\\EditForMaster.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Tech\\Tech\\master\\EditForMaster.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:37:11.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EditAppForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\client\\EditAppForm.cs",
+              "RelativeDocumentMoniker": "Tech\\client\\EditAppForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\client\\EditAppForm.cs",
+              "RelativeToolTip": "Tech\\client\\EditAppForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T14:23:12.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EditAppForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\client\\EditAppForm.cs",
+              "RelativeDocumentMoniker": "Tech\\client\\EditAppForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\Tech\\Tech\\client\\EditAppForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Tech\\Tech\\client\\EditAppForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T14:23:10.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClientForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\client\\ClientForm.cs",
+              "RelativeDocumentMoniker": "Tech\\client\\ClientForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\client\\ClientForm.cs",
+              "RelativeToolTip": "Tech\\client\\ClientForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T14:23:00.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppAddForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\client\\AppAddForm.cs",
+              "RelativeDocumentMoniker": "Tech\\client\\AppAddForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\Tech\\Tech\\client\\AppAddForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Tech\\Tech\\client\\AppAddForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:08:49.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppAddForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\client\\AppAddForm.cs",
+              "RelativeDocumentMoniker": "Tech\\client\\AppAddForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\client\\AppAddForm.cs",
+              "RelativeToolTip": "Tech\\client\\AppAddForm.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAAACMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:08:51.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClientForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0443\u043F\\\u041F\u0440\u043E\u0435\u043A\u0442\\Tech\\client\\ClientForm.cs",
+              "RelativeDocumentMoniker": "Tech\\client\\ClientForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0443\u043F\\Tech\\Tech\\client\\ClientForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Tech\\Tech\\client\\ClientForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:31:23.563Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
